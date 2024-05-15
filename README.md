@@ -1,4 +1,4 @@
-# Biblioteca-reservas-libros
+# Proyecto_javaDoc_jsDoc
 
 ## Descripción del Proyecto
 
@@ -10,9 +10,9 @@ Para clonar este repositorio y configurarlo en tu entorno de desarrollo, sigue e
 
 1. Abre tu terminal.
 
-2. Ejecuta el siguiente comando para clonar el repositorio: git clone https://github.com/Jmorsal330/Biblioteca-reserva-libros.git
+2. Ejecuta el siguiente comando para clonar el repositorio: git clone https://github.com/JavierMoren/Proyecto_javaDoc_jsDoc.git
 
-3. Accede al directorio del proyecto: cd biblioteca-reservas-libros
+3. Accede al directorio del proyecto
 
 
 4. Configura tu entorno de desarrollo y dependencias según corresponda 
@@ -47,7 +47,7 @@ Para JavaScript (JSDoc): jsdoc [path to package directory] -r -d [path to javado
 
 La estructura de directorios del proyecto es la siguiente:
 
-- /biblioteca-reservas-libros
+- /Proyecto_javaDoc_jsDoc
     - /src
         - /java
             - Main.java
