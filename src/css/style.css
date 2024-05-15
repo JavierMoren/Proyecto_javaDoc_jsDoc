@@ -1,0 +1,55 @@
+ /* Estilos Globales */
+
+  /* Estilo para el fondo de la página */
+    body {
+      background-color: #f0f0f0;
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+    }
+    
+    /* Estilo para el encabezado de la página */
+    header {
+      background-color: #007acc;
+      color: #fff;
+      padding: 10px;
+      text-align: center;
+    }
+  /* Estilos de Texto */
+
+    /* Estilo para los párrafos de texto */
+    p {
+      font-size: 16px;
+      line-height: 1.5;
+    }
+
+
+    /* Estilo para los enlaces */
+    a {
+      color: #007acc;
+      text-decoration: none;
+    }
+    
+    /* Cambio de color de enlace al pasar el cursor */
+    a:hover {
+      color: #005f8b;
+    }
+  
+  /* Estilos de Listas */
+
+    /* Estilo para la lista de libros */
+    .lista-libros {
+      list-style-type: none;
+      padding: 0;
+    }
+    
+    /* Estilo para un elemento de la lista de libros */
+    .lista-libros li {
+      margin: 10px 0;
+    }
+  /* Estilo para Mensajes de Error */
+    .error {
+    color: #ff0000;
+    font-size: 14px;
+    }
+  
